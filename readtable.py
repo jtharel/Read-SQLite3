@@ -1,6 +1,6 @@
 import sqlite3
 
-conn = sqlite3.connect('OrdersMobile.sqlite')
+conn = sqlite3.connect('DBName.sqlite')
 
 c = conn.cursor()
 d = conn.cursor()
