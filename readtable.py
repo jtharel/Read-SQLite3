@@ -3,7 +3,7 @@ import sys
 
 def Help():
 	print("Usage:")
-	print("  python ./readtable.py [tablename]")
+	print("  python ./readtable.py [database name]")
 	print(" ")
 	print("  python ./readtable.py users")
 
