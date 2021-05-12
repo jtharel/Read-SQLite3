@@ -41,4 +41,4 @@ if len(sys.argv) == 1:
 else:
 	dbname = sys.argv[1]
 	dumptables(dbname)
-
+ 
